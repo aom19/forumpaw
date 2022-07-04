@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forumpaw", "forumpaw\forumpaw.csproj", "{FE25F6E6-D1C3-45DA-80BA-18004A8BB73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE25F6E6-D1C3-45DA-80BA-18004A8BB73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE25F6E6-D1C3-45DA-80BA-18004A8BB73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE25F6E6-D1C3-45DA-80BA-18004A8BB73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE25F6E6-D1C3-45DA-80BA-18004A8BB73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFCEC37-1BE3-403B-9538-19D862F21816}
+	EndGlobalSection
+EndGlobal
